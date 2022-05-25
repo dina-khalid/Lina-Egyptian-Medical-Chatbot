@@ -6,7 +6,7 @@ Medical Chatbot for injuries sustained at home.
 But only if you know-how, which is where Lina can help
 Lina gives simple medical advice.
 
-<p>
+
  ## Data 
   consist of 18 class of diffrent expected intents
 
